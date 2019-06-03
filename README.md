@@ -1,12 +1,12 @@
 # Temperature-Converter
 Simple light weight temperature converter
 
-#Technolgies
+# Technolgies
 HTML5
 CSS
 Javascript
 Jquery
 Boostarp
 
-#Installation
+# Installation
 npm install
