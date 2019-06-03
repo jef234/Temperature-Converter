@@ -1,7 +1,7 @@
 # Temperature-Converter
 Simple light weight temperature converter
 
-# Technolgies
+# Technologies
 HTML5
 CSS
 Javascript
